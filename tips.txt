@@ -1,0 +1,10 @@
+1. Never use personal information such as names, addresses, birthdates.
+2. Secure your password by using a variety of characters, numbers and letters.
+3. Don't use regular words to avoid your password getting cracked by dictionary ,brute-force or rainbow attacks.
+4. Don't substitute letters with numbers or characters that can be easy for hackers to guess. For example p@55w0rd.
+5. For an extra layer of security use multi-factor authentication (MFA).
+6. Make sure to use long passwords. The longer the password, the harder it will take to crack.
+7. Change your password regularly.
+8. Use a password manager.
+9. Don't use the same password over and over again for new accounts.
+10. Never write down your password.
